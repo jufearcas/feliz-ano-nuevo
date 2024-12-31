@@ -1,1 +1,3 @@
-document.write("Hello, World!");
+function hi = myFunction() {
+  console.log('Hello World');
+}
